@@ -1,3 +1,5 @@
+<img width="1918" height="897" alt="image" src="https://github.com/user-attachments/assets/b75e44d9-d37a-4e19-ab8a-708e828fefce" />
+
 # Job Market Intelligence Dashboard
 
 ## Overview
