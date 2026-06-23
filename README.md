@@ -70,5 +70,10 @@ Studied company rating patterns across job postings.
 
 ## Author
 
-Ramlal
+jeedipalli rishma
 Aspiring Data Analyst | Python | SQL | Power BI
+
+
+"C:\Users\ramla\OneDrive\Videos\Screen Recordings\job analysis project.mp4"
+
+"C:\Users\ramla\OneDrive\Videos\Screen Recordings\googlesheet dashboard.mp4"
