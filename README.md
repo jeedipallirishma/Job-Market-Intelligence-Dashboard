@@ -77,9 +77,12 @@ Aspiring Data Analyst | Python | SQL | Power BI
 ---- videos------
 --
 C:\Users\ramla\OneDrive\Videos\Screen Recordings\googlesheet dashboard.mp4
+--
 
 C:\Users\ramla\OneDrive\Videos\Screen Recordings\job analysis project.mp4
 --
 ----------- dataset ----------
 --
-r"C:\Users\ramla\Downloads\job\DataAnalyst.csv"
+
+C:\Users\ramla\Downloads\job\DataAnalyst.csv
+--
