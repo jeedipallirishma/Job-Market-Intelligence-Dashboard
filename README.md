@@ -72,8 +72,11 @@ Studied company rating patterns across job postings.
 
 jeedipalli rishma
 Aspiring Data Analyst | Python | SQL | Power BI
-
-
+--
+---- videos------
 "C:\Users\ramla\OneDrive\Videos\Screen Recordings\job analysis project.mp4"
 
 "C:\Users\ramla\OneDrive\Videos\Screen Recordings\googlesheet dashboard.mp4"
+--
+----------- dataset ----------
+"C:\Users\ramla\Downloads\job\DataAnalyst.csv"
