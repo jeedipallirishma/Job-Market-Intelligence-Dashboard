@@ -82,10 +82,10 @@ Aspiring Data Analyst | Python | SQL | Power BI
 ---- videos------
 --
 google sheet Demo:
-(C:\Users\ramla\OneDrive\Videos\Screen Recordings\googlesheet dashboard.mp4)
+([C:\Users\ramla\OneDrive\Videos\Screen Recordings\googlesheet dashboard.mp4](https://www.linkedin.com/feed/update/urn:li:activity:7474054279763390464/))
 --
 Project Demo:
-(C:\Users\ramla\OneDrive\Videos\Screen Recordings\job analysis project.mp4)
+([C:\Users\ramla\OneDrive\Videos\Screen Recordings\job analysis project.mp4](https://www.linkedin.com/feed/update/urn:li:activity:7474006510684016640/))
 --
 ----------- dataset ----------
 --
